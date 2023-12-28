@@ -2,7 +2,7 @@
 
 const InsightCard = () => (
   <div>
-    Insight Card
+    Insight Cardasdasdasdasdas
   </div>
 );
 
